@@ -1,6 +1,7 @@
 package docs
 
 /*
+	https://awesome-go.com/
 	https://templ.guide/quick-start/installation/
 	https://htmx.org/
 	https://golang.testcontainers.org/modules/

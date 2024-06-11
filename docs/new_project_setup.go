@@ -22,6 +22,7 @@ package docs
 
 // Project structuring
 /*
+	https://go.dev/blog/organizing-go-code
 	https://go.dev/doc/modules/layout
 
 	https://github.com/golang-standards/project-layout
@@ -34,6 +35,7 @@ package docs
 	https://github.com/benbjohnson/wtf
 	https://github.com/francisco3ferraz/go-nuts
 	https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/
+	https://awesome-go.com/project-layout/
 */
 
 // video tutorials
